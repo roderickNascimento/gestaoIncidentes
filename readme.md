@@ -4,16 +4,16 @@
 Este é um teste visando a criação de um prototipo de um sistema simples usando laravel.
 
 ## Pré Requisitos
-  Composer
+  Composer<br>
   Laravel 5.5
   
 ## Começando
 
 Clone o projeto:
-  -link : https://github.com/roderickNascimento/gestaoIncidentes.git
+   https://github.com/roderickNascimento/gestaoIncidentes.git
   (se preferir use a opção SSH)
   
- ### Comando 
+ ### Comandos
   
  ```cd gestaoIncidentes
   
