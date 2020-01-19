@@ -3,6 +3,10 @@
 # Gestao de incendetes
 Este é um teste visando a criação de um prototipo de um sistema simples usando laravel.
 
+## Pré Requisitos
+  Composer
+  Laravel 5.5
+  
 ## Começando
 
 Clone o projeto:
