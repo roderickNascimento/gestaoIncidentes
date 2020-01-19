@@ -3,13 +3,13 @@
 # Gestao de incendetes
 Este é um teste visando a criação de um prototipo de um sistema simples usando laravel.
 
-##Começando
+## Começando
 
 Clone o projeto:
   -link : https://github.com/roderickNascimento/gestaoIncidentes.git
   (se preferir use a opção SSH)
   
-  ###Comando 
+ ### Comando 
   
  ```cd gestaoIncidentes
   
@@ -29,4 +29,5 @@ Clone o projeto:
 
   php artisan migrate
   php artisan db:seed
-  php artisan serve
+  
+  php artisan serve 
