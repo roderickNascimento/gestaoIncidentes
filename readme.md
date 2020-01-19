@@ -9,10 +9,12 @@ Clone o projeto:
   -link : https://github.com/roderickNascimento/gestaoIncidentes.git
   (se preferir use a opção SSH)
   
+  ###Comando 
+  
  ```cd gestaoIncidentes
   
   composer install
-  composer dump```
+  composer dump
 
   cp .env.example .env
   
