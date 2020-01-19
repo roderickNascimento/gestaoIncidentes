@@ -1,15 +1,15 @@
 
 
-## Gestao de incendetes
+# Gestao de incendetes
 Este é um teste visando a criação de um prototipo de um sistema simples usando laravel.
 
-#Começando
+##Começando
 
 Clone o projeto:
   -link : https://github.com/roderickNascimento/gestaoIncidentes.git
   (se preferir use a opção SSH)
   
-  cd gestaoIncidentes 
+ ''' cd gestaoIncidentes '''
   
   composer install
   composer dump
